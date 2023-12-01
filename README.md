@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, Filip here.</h1>
-<h3 align="center">22yo Android developer.</h3>
+<h3 align="center">23yo Android Developer.</h3>
 
 
 <p align="center">
