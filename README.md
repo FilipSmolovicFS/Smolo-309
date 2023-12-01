@@ -14,7 +14,7 @@
 
 
 
-- 🔨 I am currently working on a bank related mobile app.
+- 🔨 I am currently working on a social media mobile app.
 
 
 - 📨 You can reach me via **[Discord](https://discord.com/users/269536090631831552)** & **[Email](mailto:fsmolovic@gmail.com)**.
